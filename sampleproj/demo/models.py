@@ -1,7 +1,10 @@
 from django.db import models
 
 # Create your models here.
-
+for item in range(5):
+    print(item)
+    
+print("hello")
 print("shrikant")
 
 
